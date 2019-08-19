@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.2)
+  - OpenWeatherSwift (1.0.1):
+    - Alamofire
+    - SwiftyJSON
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - OpenWeatherSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - OpenWeatherSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  OpenWeatherSwift: 2bce687b07f7f663b30c1947176346508c5963a7
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: b7a3c59169edbe47648c98c527fbbdbc98fff866
+
+COCOAPODS: 1.5.3
